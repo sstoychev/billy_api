@@ -1,0 +1,8 @@
+# ignore directories
+.vscode/
+.idea/
+venv/
+config/*.ini
+
+# ignore files
+*.pyc
